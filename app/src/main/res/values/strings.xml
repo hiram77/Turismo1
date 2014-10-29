@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turismo</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="opciones">
+        <item>Mapas</item>
+        <item>Cultural</item>
+        <item>Diversion</item>
+        <item>Religioso</item>
+        <item>Naturaleza</item>
+    </string-array>
+    <string-array name="cultura">
+        <item>Gastronomia</item>
+        <item>Museos</item>
+    </string-array>
+    <string-array name="diversion">
+        <item>Parques Acuaticos</item>
+        <item>Parques Tematicos</item>
+        <item>Zoologico</item>
+    </string-array>
+    <string-array name="religioso">
+        <item>Catedrales</item>
+        <item>Iglesias</item>
+        <item>Monasterios</item>
+    </string-array>
+    <string-array name="naturaleza">
+        <item>Areas Protegidas</item>
+        <item>Playas</item>
+        <item>Parques</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_btn_find">Find</string>
+
+    <string-array name="place_type">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>hindu_temple</item>
+        <item>restaurant</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Hindu Temple</item>
+        <item>Restaurant</item>
+    </string-array>
+</resources>
+
+
